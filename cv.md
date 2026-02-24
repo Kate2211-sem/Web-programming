@@ -53,4 +53,4 @@ Actively expanding my tech stack through self-directed learning:
 
   
 ## PHOTO
-![Kate Semyonchikova](photo.jpg)
+![Kate Semyonchikova](cv.jpg)
