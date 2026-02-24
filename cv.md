@@ -13,3 +13,19 @@ I am eager to pursue a career as a junior developer/intern, striving for continu
 - **Email:** [semyonchikovakare2211@gmail.com]
 - **Telegram:** [@fetaa._wii]
 
+## Skills
+- **Programming Languages:** C#, C++ (basic syntax, OOP, data structures)
+- **Databases:** SQL (writing queries), understanding of relational DBMS (MS SQL / PostgreSQL / SQLite)
+- **Development Tools:** Visual Studio, Visual Studio Code
+- **Version Control Systems:** Git
+- **Methodologies and Principles:** Object-Oriented Programming (OOP)
+- **Additional Skills:** Code debugging, reading technical documentation in English
+
+## Code Example
+Working with relational databases (SQL). An example of a query to select candidates for the Data Analyst position, sorted by work experience:
+
+```sql
+SELECT name, skills, experience
+FROM candidates
+WHERE position = 'Data Analyst'
+ORDER BY experience DESC;
