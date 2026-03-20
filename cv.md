@@ -1,6 +1,5 @@
 # Semyonchikova Kate
-**Data analyst**
----
+
 
 ## About me
 Second-year student of the Faculty of Electrical Engineering at the Belarusian-Russian University (speciality SOIR).
@@ -9,13 +8,13 @@ My experience in professional dancing has instilled in me strong discipline and 
 I am eager to pursue a career as a junior developer/intern, striving for continuous learning and contributing to the team's goals.
 
 ## Contacts
-- **Phone:** [+375256576987]
-- **Email:** [semyonchikovakare2211@gmail.com]
+- **Phone:** [+375257578086]
+- **Email:** [semencikovakata5@gmail.com]
 - **Telegram:** [@fetaa._wii]
 
 ## Skills
 - **Programming Languages:** C#, C++ (basic syntax, OOP, data structures)
-- **Databases:** SQL (writing queries), understanding of relational DBMS (MS SQL / PostgreSQL / SQLite)
+- **Databases:** SQL (writing queries)
 - **Development Tools:** Visual Studio, Visual Studio Code
 - **Version Control Systems:** Git
 - **Methodologies and Principles:** Object-Oriented Programming (OOP)
@@ -34,8 +33,6 @@ ORDER BY experience DESC;
 ## Work experience
 *Note: As a 2nd-year student, my projects are primarily educational. I'm actively learning and will upload more code to GitHub soon.*
 
-## Educational Projects:
-**CV Project (HTML version)** — My first web page layout created in Lab 1 (local file: D:/бру 2 курс/веб/cv/index.html)
 
 ## COURSES & SELF-EDUCATION
 
@@ -49,7 +46,7 @@ Actively expanding my tech stack through self-directed learning:
 ## LANGUAGES
 
 - **Russian:** Native
-- **English:** B1 (Intermediate) — currently focusing on technical vocabulary and reading documentation
+- **English:** B1 (Intermediate) 
 
   
 ## PHOTO
